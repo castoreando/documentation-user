@@ -127,3 +127,9 @@ You can have more details by clicking on the **Traceability** button :
 .. seealso::
     * :doc:`differences`
     * :doc:`lots`
+    
+Serial Number Advance Configuration
+===================================
+
+In the menu "Warehouse Managment / Operation Types you an choice in with type of operation you will be abalible to create a Serial number o just to select a Serial number
+
